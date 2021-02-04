@@ -1,3 +1,3 @@
 # Hello-world
 My first repository
-New to computer, beginner
+New to coding, beginner
